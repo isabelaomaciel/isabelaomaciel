@@ -1,5 +1,5 @@
 ## Hi, I'm Isabela 👋<br>
-<br>🌱 I’m currently learning HTML, JavaScript and CSS<br><br><br>
+<br>🌱 I’m currently learning HTML, JavaScript and CSS
 <br> 📚 System Analysis and Development Student
 
 
