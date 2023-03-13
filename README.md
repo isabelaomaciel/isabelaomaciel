@@ -1,5 +1,5 @@
 ## Hi, I'm Isabela 👋<br>
-<br>🌱 I’m currently learning HTML, Java, JavaScript and CSS
+<br>🌱 I’m currently learning Dart and Flutter.
 <br> 📚 System Analysis and Development Student
 <br> My goal is to become and work as a Mobile Developer.
 
