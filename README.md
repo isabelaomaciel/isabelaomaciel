@@ -3,7 +3,7 @@
 <br> 📚 Systems Development Analyst Student
 <br> My goal is to become and work as a Mobile Developer.
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,javascript,html,css&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,javascript,html,css&perline=6&theme=light)](https://skillicons.dev)
 
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelaomaciel)](https://github.com/anuraghazra/github-readme-stats)
