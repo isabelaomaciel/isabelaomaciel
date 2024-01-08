@@ -1,7 +1,7 @@
 ## Hi, I'm Isabela 👋<br>
 <br>🌱 I’m currently learning JavaScript.
 <br> 📚 Systems Development Analyst Student
-<br> My goal is to become and work as a FrontEnd Developer.
+<br> My goal is to become and work as a FrontEnd and Mobile Developer.
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,javascript,html,css&perline=6&theme=light)](https://skillicons.dev)
 
