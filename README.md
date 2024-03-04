@@ -1,5 +1,5 @@
 ## Hi, I'm Isabela 👋<br>
-<br>🌱 I’m currently learning JavaScript.
+<br>🌱 I’m currently learning Flutter.
 <br> 📚 Systems Development Analyst Student
 <br> 🚀 My goal is to become and work as a FrontEnd and Mobile Developer.
 
